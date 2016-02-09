@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "africa1872petr_0011.png"; bbox 0 0 2023 3032; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 388 986 1458 1023">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 388 986 1458 1023">
+     <span class='ocr_line' id='line_1_1' title="bbox 388 986 1458 1023; baseline -0.002 -5"><span class='ocrx_word' id='word_1_1' title='bbox 388 987 720 1018; x_wconf 68' lang='lat' dir='ltr'>DOCTISSIMO</span> <span class='ocrx_word' id='word_1_2' title='bbox 776 986 1281 1023; x_wconf 59' lang='lat' dir='ltr'>HUMANISSIMOQFE</span> <span class='ocrx_word' id='word_1_3' title='bbox 1332 987 1458 1017; x_wconf 62' lang='lat' dir='ltr'>VIRO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 691 1125 1153 1169">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 691 1125 1153 1169">
+     <span class='ocr_line' id='line_1_2' title="bbox 691 1125 1153 1169; baseline -0.002 0"><span class='ocrx_word' id='word_1_4' title='bbox 691 1125 753 1169; x_wconf 88' lang='lat' dir='ltr'>C.</span> <span class='ocrx_word' id='word_1_5' title='bbox 808 1125 1153 1169; x_wconf 69' lang='lat' dir='ltr'><strong>BENOIT.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 288 1250 1555 1283">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 288 1250 1555 1283">
+     <span class='ocr_line' id='line_1_3' title="bbox 288 1250 1555 1283; baseline 0 -5"><span class='ocrx_word' id='word_1_6' title='bbox 288 1251 520 1278; x_wconf 70' lang='lat' dir='ltr'>FAGULTATIS</span> <span class='ocrx_word' id='word_1_7' title='bbox 550 1251 797 1279; x_wconf 74' lang='lat' dir='ltr'>LITTERARUM</span> <span class='ocrx_word' id='word_1_8' title='bbox 824 1252 863 1278; x_wconf 71' lang='lat' dir='ltr'>IN</span> <span class='ocrx_word' id='word_1_9' title='bbox 889 1251 1093 1279; x_wconf 70' lang='lat' dir='ltr'><strong>AGADEMIA</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1123 1250 1359 1278; x_wconf 63' lang='lat' dir='ltr'>NANCEIENSI</span> <span class='ocrx_word' id='word_1_11' title='bbox 1385 1250 1555 1283; x_wconf 69' lang='lat' dir='ltr'><strong>DECANO,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 627 1399 1214 1422">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 627 1399 1214 1422">
+     <span class='ocr_line' id='line_1_4' title="bbox 627 1399 1214 1422; baseline -0.002 0"><span class='ocrx_word' id='word_1_12' title='bbox 627 1400 693 1422; x_wconf 73' lang='lat' dir='ltr'>HOC</span> <span class='ocrx_word' id='word_1_13' title='bbox 715 1399 909 1422; x_wconf 63' lang='lat' dir='ltr'>OPUSOULUM</span> <span class='ocrx_word' id='word_1_14' title='bbox 935 1399 1055 1421; x_wconf 69' lang='lat' dir='ltr'>MEMOR</span> <span class='ocrx_word' id='word_1_15' title='bbox 1078 1399 1214 1421; x_wconf 68' lang='lat' dir='ltr'>DICABAT</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
